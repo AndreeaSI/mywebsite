@@ -1,0 +1,13 @@
+h1 {
+    font-family:'Bonbon', cursive;
+    
+}
+p {
+    font-family: 'Delius', cursive;
+    text-align: center;
+ 
+}
+body {
+    background-image: url(top.jpg);
+    background-size: auto;
+}
