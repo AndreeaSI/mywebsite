@@ -1,5 +1,6 @@
 h1 {
     font-family: 'Abril Fatface', cursive;
+    font-size: 60px;
     
 }
 body {
@@ -13,7 +14,9 @@ dl {
     font-family: 'Playfair Display', serif;
     font-weight: 700;
     font-stretch: expanded;
-   
+    font-size: 20px;
+    
+
 }
 .header {
   padding: 60px;

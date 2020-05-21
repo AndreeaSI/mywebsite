@@ -7,6 +7,7 @@ body {
      font-size: 12.5px;
      background-image: url(wall.jpg);
     background-size: auto;
+    
 }
       
 h1 {
@@ -118,3 +119,7 @@ h1 {
     border-radius: 6px;
     align-content: center;
    } 
+    p1 {
+        font-size: 20px;
+        font-family: 'Old Standard TT', serif;
+    }
